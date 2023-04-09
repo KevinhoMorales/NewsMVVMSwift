@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D7C6CF4D-C581-4E9B-B4B6-9259D5694819"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91C9F611-BCBD-4342-AA40-3C66559087AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMVVMSwift/Services/WebServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getArticles(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91C9F611-BCBD-4342-AA40-3C66559087AA - 348c734a1f12f89e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NewsMVVMSwift.WebServices.getArticles(url: Foundation.URL, completion: (Swift.Optional&lt;NewsMVVMSwift.ArticlesResponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsMVVMSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinhomorales/NewsMVVMSwift/NewsMVVMSwift/Services/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1728">
+               </Location>
+               <Location
+                  uuid = "91C9F611-BCBD-4342-AA40-3C66559087AA - 348c734a1f12f89e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NewsMVVMSwift.WebServices.getArticles(url: Foundation.URL, completion: (Swift.Optional&lt;NewsMVVMSwift.ArticlesResponse&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsMVVMSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kevinhomorales/NewsMVVMSwift/NewsMVVMSwift/Services/WebServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
